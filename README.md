@@ -1,11 +1,11 @@
-About r-rcgmin
-==============
+About r-rcgmin-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rcgmin-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=Rcgmin
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rcgmin-feedstock/blob/main/LICENSE.txt)
 
 Summary: Conjugate gradient minimization of nonlinear functions with box constraints incorporating the Dai/Yuan update. This implementation should be used in place of the "CG" algorithm of the optim() function.
 
